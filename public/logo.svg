@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" shape-rendering="crispEdges">
+  <!-- Top triangle: Dark Navy -->
+  <polygon points="0,0 100,0 50,50" fill="#1B2A3E"/>
+  <!-- Right triangle: Orange -->
+  <polygon points="100,0 100,100 50,50" fill="#FF6040"/>
+  <!-- Bottom triangle: Cyan -->
+  <polygon points="100,100 0,100 50,50" fill="#00E5FF"/>
+  <!-- Left triangle: Slate Blue -->
+  <polygon points="0,100 0,0 50,50" fill="#3D5068"/>
+</svg>
